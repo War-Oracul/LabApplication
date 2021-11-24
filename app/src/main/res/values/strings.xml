@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LabApplication</string>
+    <string name="label_second_activity">SecondActivity</string>
+    <string name="add_button">Добавить</string>
+    <string name="remove_button">Удалить</string>
+    <string name="locale_button">RU/EN</string>
+    <string name="title_name">Данные</string>
+    <string name="second_activity_button">Активити</string>
+    <string name="second_activity_text">Вторая активность</string>
+    <string name="name_text">Names</string>
+    <string name="company_text">Company</string>
+    <string name="post_text">Post</string>
+    <string name="login_text">Логин</string>
+    <string name="password_text">Пароль</string>
+    <string name="login_edit">Введите логин</string>
+    <string name="password_edit">Введите пароль</string>
+    <string name="enter_login_button">Войти</string>
+    <string name="create_login_button">Создать</string>
+    <string name="label_login_activity">Регистрация</string>
+</resources>
